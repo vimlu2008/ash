@@ -8,6 +8,8 @@ Created on Fri Aug  2 10:04:56 2019
 
         
  for num in range(6):
-     for 1 in range(num):
+    for 1 in range(num):
          print ('*', end=" ")
-     print("\n")
+         
+     print ("\n")
+     print ("hello")
